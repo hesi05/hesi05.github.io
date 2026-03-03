@@ -1777,6 +1777,20 @@
       ""
     ]
   },
+  "129": {
+    "head": "https://github.com/zetsuya05/january_2026/raw/refs/heads/main/Round%20Photo_Mar042026_050453.png",
+    "name": "Kalea",
+    "heroid": 129,
+    "roadsortlabel": [
+      "Exp Lane",
+      "Roam"
+    ],
+    "squarehead": "https://github.com/zetsuya05/january_2026/raw/refs/heads/main/Hero1281-portrait_1.webp",
+    "sortlabel": [
+      "Fighter",
+      "Support"
+    ]
+  },
   "133": {
     "head": "https://github.com/zetsuya05/january_2026/raw/refs/heads/main/Round%20Photo_Mar032026_000456.png",
     "name": "Zetian",
