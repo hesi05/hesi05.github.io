@@ -91042,5 +91042,19 @@
       "",
       "Mage"
     ]
+  },
+  "132": {
+    "head": "https://github.com/jutsu2817/img/raw/refs/heads/main/Hero1301-portrait.webp",
+    "name": "Obsidia",
+    "heroid": 132,
+    "roadsortlabel": [
+      "",
+      "Gold Lane"
+    ],
+    "squarehead": "https://github.com/jutsu2817/img/raw/refs/heads/main/IMG_20261110_151858.jpg",
+    "sortlabel": [
+      "",
+      "Marksman"
+    ]
   }
 }
